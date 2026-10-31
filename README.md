@@ -15,7 +15,7 @@ This project aims to:
 
 ## Dashboard Preview
 
-![Customer Churn Prediction Dashboard](assets/feature_performance.png)
+![Customer Churn Prediction Dashboard](assets/model_performance.png)
 
 
 ## Dataset
