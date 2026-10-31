@@ -15,11 +15,8 @@ This project aims to:
 
 ## Dashboard Preview
 
-<!-- Add your dashboard screenshots here -->
-
 ![Customer Churn Prediction Dashboard](assets/dashboard-overview.png)
 
-*Replace this image with a screenshot of your Streamlit dashboard.*
 
 ## Dataset
 
